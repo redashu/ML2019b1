@@ -1,0 +1,24 @@
+1.  image  manipulation 
+
+	i)   Image  blur operation 
+		i)   all image blur 
+		ii)  particular  area blur 
+		iii)  only particular area not blur rest all blur 
+	ii)  image swap 
+		i)   pick a particular  range of pixel from  image 1 and put it image 2
+		ii)  change to back ground of  image not the object 
+		iii)   remove  some  random from  image and refill it by using any ML ALGO
+
+	iii)  Find  operation  in images
+		i)   find  a  person of  any object  from an image 
+		ii)   find  the  presence of  Red OR  gray color in image 
+		iii)  find  image  with human presence 
+
+	iv)    frame  and pixel operation 
+
+		i)   take two image and  merge in the single one 
+			(make sure data must be visible and seperate enough)
+		ii)  apply  all instagram filters in your images
+
+
+2.    
