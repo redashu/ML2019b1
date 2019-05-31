@@ -12,8 +12,8 @@ sudo pip3 install numpy  pandas matplotlib mpld3 searborn
 
 ###  HEer is the Random Forest 
 using ensemble to for prediction
-** Ensemble means using multiple or single on dataset by small chunk of data to make random tree
-   and those tree'w we can use to predict **
+**Ensemble means using multiple or single on dataset by small chunk of data to make random tree
+   and those tree'w we can use to predict**
 
 For more updates and information about random forest use wiki 
 > wiki random forest
